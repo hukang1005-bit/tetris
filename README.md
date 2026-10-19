@@ -47,4 +47,4 @@ Core regression tests run without a terminal. They exercise all shapes and rotat
 
 ## Project history
 
-Refactored from the supplied `Tetris-main.zip` project. The original Windows console implementation was reorganized around a portable game engine. The current interface uses a shared terminal renderer with platform-specific keyboard input. Original archives and build outputs are retained only in the local backup.
+The project evolved from a Windows console implementation into a portable game engine. The current interface uses a shared terminal renderer with platform-specific keyboard input.
